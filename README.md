@@ -15,7 +15,9 @@ Or install it yourself as:
 
     $ gem install rails2gis
 
-First of all you should connect API in your application
+First of all you should connect API in your application in `application.js`
+
+    //= require maps2gis
 
 ----------
 
